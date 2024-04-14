@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Viswajeet
 - 👀 I’m interested in exploring data and how it gives facinating results
 - 🌱 I’m currently learning Masters in ML and Data science
-- 💞️ I’m looking to collaborate on any projects on Matchine learning
+- 💞️ I’m looking to collaborate on any projects on Machine learning
 - 📫 Reach me on https://www.linkedin.com/in/vkjeet/
 
 
